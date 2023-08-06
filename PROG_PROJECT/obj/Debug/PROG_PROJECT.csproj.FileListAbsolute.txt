@@ -1,0 +1,11 @@
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\bin\Debug\PROG_PROJECT.exe.config
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\bin\Debug\PROG_PROJECT.exe
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\bin\Debug\PROG_PROJECT.pdb
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.csproj.AssemblyReference.cache
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.csproj.SuggestedBindingRedirects.cache
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.Form1.resources
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.Properties.Resources.resources
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.csproj.GenerateResource.cache
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.csproj.CoreCompileInputs.cache
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.exe
+C:\Users\tsare\source\repos\PROG_PROJECT\PROG_PROJECT\obj\Debug\PROG_PROJECT.pdb
